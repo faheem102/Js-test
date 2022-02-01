@@ -21,7 +21,7 @@ function buttonClicked(){
 
 myButton.addEventListener("click", buttonClicked)
 
-/
+
 
     //Step--4
 
